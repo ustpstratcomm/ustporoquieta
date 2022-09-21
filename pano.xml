@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" start="node5" apprev="18080">
+  <panorama id="node4">
+    <input overlap="1" height="1520" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="32.5654" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="-126.05"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="107.95" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Highway" copyright="" author="" datetime="28 Jul 2022 2:48 pm" source="" latitude="8.49787957" customnodeid="" altitude="14.20" tags="Oroquieta|highlights" description="" comment="" heading="32.5654" longitude="123.78672838" nodeid="node4" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="Gate" description="" skinid="ht_node" pan="25.2293" url="{node5}" distance="9.10355"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" height="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="27.8902" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Gate" copyright="" author="" datetime="28 Jul 2022 2:48 pm" source="" latitude="8.49796077" customnodeid="" altitude="15.00" tags="Oroquieta|highlights" description="" comment="" heading="27.8902" longitude="123.78673895" nodeid="node5" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="Highway" description="" skinid="ht_node" pan="200.554" url="{node4}" distance="9.10355"/>
+      <hotspot id="Point02" target="$fwd" tilt="-5.16" title="IMG_20220728_150502_00_066.insp" description="" skinid="ht_node" pan="-359.44" url="{node12}" distance="18.834"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" height="1520" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Stairs" copyright="" author="" datetime="28 Jul 2022 2:56 pm" source="" latitude="8.49817506" customnodeid="" altitude="14.40" tags="Oroquieta" description="" comment="" heading="0" longitude="123.78666662" nodeid="node7" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-21.11" title="IMG_20220728_150502_00_066.insp" description="" skinid="ht_node" pan="-131.943" url="{node12}" distance="20.8874"/>
+      <hotspot id="Point02" target="$fwd" tilt="23.2" title="IMG_20220728_145821_00_062.insp" description="" skinid="ht_node" pan="-105.977" url="{node8}" distance="5.59482"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" height="1520" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-163.701" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_145821_00_062.insp" copyright="" author="" datetime="28 Jul 2022 2:58 pm" source="" latitude="8.49814863" customnodeid="" altitude="15.40" tags="Oroquieta" description="" comment="" heading="-163.701" longitude="123.78670991" nodeid="node8" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-17" title="Stairs" description="" skinid="ht_node" pan="-110.749" url="{node7}" distance="5.59482"/>
+      <hotspot id="Point02" target="$fwd" tilt="-5.87" title="Library" description="" skinid="ht_node" pan="-15.7048" url="{node9}" distance="6.79121"/>
+      <hotspot id="Point03" target="$fwd" tilt="-2.42" title="Computer Lab" description="" skinid="ht_node" pan="-196.908" url="{node30}" distance="26.8876"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" height="1520" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-95.8368" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Library" copyright="" author="" datetime="28 Jul 2022 3:00 pm" source="" latitude="8.49810025" customnodeid="" altitude="15.90" tags="Oroquieta|highlights" description="" comment="" heading="-95.8368" longitude="123.78667222" nodeid="node9" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_145821_00_062.insp" description="" skinid="ht_node" pan="-133.451" url="{node8}" distance="6.79121"/>
+      <hotspot id="Point02" target="$fwd" tilt="-2.16" title="IMG_20220728_150134_00_064.insp" description="" skinid="ht_node" pan="-27.2219" url="{node10}" distance="4.95516"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" height="1520" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="50.5667" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_150134_00_064.insp" copyright="" author="" datetime="28 Jul 2022 3:01 pm" source="" latitude="8.49812714" customnodeid="" altitude="15.90" tags="Oroquieta" description="" comment="" heading="50.5667" longitude="123.78663629" nodeid="node10" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="Library" description="" skinid="ht_node" pan="-76.5484" url="{node9}" distance="4.95516"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input overlap="1" height="1520" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="21.835" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_150502_00_066.insp" copyright="" author="" datetime="28 Jul 2022 3:05 pm" source="" latitude="8.49809773" customnodeid="" altitude="15.90" tags="Oroquieta" description="" comment="" heading="21.835" longitude="123.78683971" nodeid="node12" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="Gate" description="" skinid="ht_node" pan="165.795" url="{node5}" distance="18.834"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220728_150712_00_067.insp" description="" skinid="ht_node" pan="-38.2966" url="{node13}" distance="9.63447"/>
+      <hotspot id="Point02" target="-87.0/1.8/100.0" tilt="0" title="Stairs" description="" skinid="custom_node" pan="87.5253" url="{node7}" distance="20.8874"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" height="1520" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="196.591" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_150712_00_067.insp" copyright="" author="" datetime="28 Jul 2022 3:07 pm" source="" latitude="8.49814088" customnodeid="" altitude="15.70" tags="Oroquieta" description="" comment="" heading="196.591" longitude="123.78691568" nodeid="node13" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_150502_00_066.insp" description="" skinid="ht_node" pan="316.459" url="{node12}" distance="9.63447"/>
+      <hotspot id="Point02" target="$fwd" tilt="0" title="Cashier/Assesment" description="" skinid="ht_node" pan="140.485" url="{node14}" distance="11.1502"/>
+      <hotspot id="Point03" target="$fwd" tilt="-1.88" title="IMG_20220728_150837_00_069.insp" description="" skinid="ht_node" pan="81.5578" url="{node15}" distance="12.7512"/>
+      <hotspot id="Point04" target="$fwd" tilt="-6.11" title="IMG_20220728_151757_00_077.insp" description="" skinid="ht_node" pan="162.32" url="{node23}" distance="21.0657"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" height="1520" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-61.2359" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Cashier/Assesment" copyright="" author="" datetime="28 Jul 2022 3:07 pm" source="" latitude="8.49819680" customnodeid="" altitude="15.70" tags="Oroquieta|highlights" description="" comment="" heading="-61.2359" longitude="123.78699984" nodeid="node14" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_150712_00_067.insp" description="" skinid="ht_node" pan="62.6583" url="{node13}" distance="11.1502"/>
+      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220728_151757_00_077.insp" description="" skinid="ht_node" pan="-79.3887" url="{node23}" distance="11.1262"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" height="1520" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="14.4725" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_150837_00_069.insp" copyright="" author="" datetime="28 Jul 2022 3:08 pm" source="" latitude="8.49810559" customnodeid="" altitude="14.50" tags="Oroquieta" description="" comment="" heading="14.4725" longitude="123.78702600" nodeid="node15" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_150712_00_067.insp" description="" skinid="ht_node" pan="86.5493" url="{node13}" distance="12.7512"/>
+      <hotspot id="Point02" target="$fwd" tilt="-25.84" title="IMG_20220728_150919_00_070.insp" description="" skinid="ht_node" pan="-357.837" url="{node16}" distance="3.41991"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" height="1520" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-55.9291" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_150919_00_070.insp" copyright="" author="" datetime="28 Jul 2022 3:09 pm" source="" latitude="8.49813161" customnodeid="" altitude="14.90" tags="Oroquieta" description="" comment="" heading="-55.9291" longitude="123.78704258" nodeid="node16" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_150837_00_069.insp" description="" skinid="ht_node" pan="91.8515" url="{node15}" distance="3.41991"/>
+      <hotspot id="Point02" target="$fwd" tilt="9.55" title="IMG_20220728_151347_00_074.insp" description="" skinid="ht_node" pan="-98.3857" url="{node20}" distance="3.26934"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220728_151242_00_073.insp" description="" skinid="ht_node" pan="-184.749" url="{node19}" distance="16.3384"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input overlap="1" height="1520" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-50.4815" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151055_00_071.insp" copyright="" author="" datetime="28 Jul 2022 3:10 pm" source="" latitude="8.49793822" customnodeid="" altitude="13.60" tags="Oroquieta" description="" comment="" heading="-50.4815" longitude="123.78730783" nodeid="node17" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-3.31" title="IMG_20220728_151242_00_073.insp" description="" skinid="ht_node" pan="1.89639" url="{node19}" distance="19.9284"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input overlap="1" height="1520" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="140.426" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151210_00_072.insp" copyright="" author="" datetime="28 Jul 2022 3:12 pm" source="" latitude="8.49810242" customnodeid="" altitude="13.60" tags="Oroquieta" description="" comment="" heading="140.426" longitude="123.78722823" nodeid="node18" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-5.95" title="IMG_20220728_151242_00_073.insp" description="" skinid="ht_node" pan="243.372" url="{node19}" distance="10.3943"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input overlap="1" height="1520" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-54.1278" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151242_00_073.insp" copyright="" author="" datetime="28 Jul 2022 3:12 pm" source="" latitude="8.49803950" customnodeid="" altitude="13.50" tags="Oroquieta" description="" comment="" heading="-54.1278" longitude="123.78715833" nodeid="node19" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_151055_00_071.insp" description="" skinid="ht_node" pan="-178.538" url="{node17}" distance="19.9284"/>
+      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220728_150919_00_070.insp" description="" skinid="ht_node" pan="-2.94799" url="{node16}" distance="16.3384"/>
+      <hotspot id="Point03" target="$fwd" tilt="-3.18" title="IMG_20220728_151210_00_072.insp" description="" skinid="ht_node" pan="-92.2514" url="{node18}" distance="10.3943"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input overlap="1" height="1520" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="42.1775" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151347_00_074.insp" copyright="" author="" datetime="28 Jul 2022 3:13 pm" source="" latitude="8.49815760" customnodeid="" altitude="9.10" tags="Oroquieta" description="" comment="" heading="42.1775" longitude="123.78705648" nodeid="node20" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-26.44" title="IMG_20220728_150919_00_070.insp" description="" skinid="ht_node" pan="181.923" url="{node16}" distance="3.26934"/>
+      <hotspot id="Point02" target="$fwd" tilt="-9.63" title="IMG_20220728_151447_00_075.insp" description="" skinid="ht_node" pan="228.618" url="{node21}" distance="2.87739"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input overlap="1" height="1520" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-62.043" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151447_00_075.insp" copyright="" author="" datetime="28 Jul 2022 3:14 pm" source="" latitude="8.49813620" customnodeid="" altitude="14.60" tags="Oroquieta" description="" comment="" heading="-62.043" longitude="123.78704177" nodeid="node21" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-6.88" title="IMG_20220728_151347_00_074.insp" description="" skinid="ht_node" pan="-94.6123" url="{node20}" distance="2.87739"/>
+      <hotspot id="Point02" target="$fwd" tilt="-2.21" title="IMG_20220728_151524_00_076.insp" description="" skinid="ht_node" pan="-178.373" url="{node22}" distance="15.8972"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input overlap="1" height="1520" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-140.211" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151524_00_076.insp" copyright="" author="" datetime="28 Jul 2022 3:15 pm" source="" latitude="8.49804458" customnodeid="" altitude="14.60" tags="Oroquieta" description="" comment="" heading="-140.211" longitude="123.78715274" nodeid="node22" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_151447_00_075.insp" description="" skinid="ht_node" pan="-90.0659" url="{node21}" distance="15.8972"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input overlap="1" height="1520" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="15.4046" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151757_00_077.insp" copyright="" author="" datetime="28 Jul 2022 3:17 pm" source="" latitude="8.49829188" customnodeid="" altitude="15.90" tags="Oroquieta" description="" comment="" heading="15.4046" longitude="123.78703136" nodeid="node23" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_150712_00_067.insp" description="" skinid="ht_node" pan="158.254" url="{node13}" distance="21.0657"/>
+      <hotspot id="Point02" target="$fwd" tilt="4.19" title="Cashier/Assesment" description="" skinid="ht_node" pan="214.491" url="{node14}" distance="11.1262"/>
+      <hotspot id="Point03" target="$fwd" tilt="-2.22" title="IMG_20220728_151901_00_078.insp" description="" skinid="custom_node" pan="-14.44" url="{node24}" distance="11.1119"/>
+      <hotspot id="Point04" target="$fwd" tilt="-1.96" title="IMG_20220728_152101_00_079.insp" description="" skinid="ht_node" pan="-80.984" url="{node25}" distance="35.6369"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input overlap="1" height="1520" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-62.5971" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_151901_00_078.insp" copyright="" author="" datetime="28 Jul 2022 3:19 pm" source="" latitude="8.49838154" customnodeid="" altitude="15.40" tags="Oroquieta" description="" comment="" heading="-62.5971" longitude="123.78707598" nodeid="node24" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_151757_00_077.insp" description="" skinid="ht_node" pan="91.1968" url="{node23}" distance="11.1119"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input overlap="1" height="1520" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="133.144" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_152101_00_079.insp" copyright="" author="" datetime="28 Jul 2022 3:21 pm" source="" latitude="8.49825000" customnodeid="" altitude="13.90" tags="Oroquieta" description="" comment="" heading="133.144" longitude="123.78735263" nodeid="node25" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_151757_00_077.insp" description="" skinid="ht_node" pan="215.635" url="{node23}" distance="35.6369"/>
+      <hotspot id="Point02" target="$fwd" tilt="0.54" title="IMG_20220728_152312_00_081.insp" description="" skinid="ht_node" pan="-22.2573" url="{node27}" distance="18.4353"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input overlap="1" height="1520" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="95.0381" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_152210_00_080.insp" copyright="" author="" datetime="28 Jul 2022 3:22 pm" source="" latitude="8.49804657" customnodeid="" altitude="13.50" tags="Oroquieta" description="" comment="" heading="95.0381" longitude="123.78750000" nodeid="node26" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_152312_00_081.insp" description="" skinid="ht_node" pan="135.721" url="{node27}" distance="9.44747"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input overlap="1" height="1520" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="6.90441" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_152312_00_081.insp" copyright="" author="" datetime="28 Jul 2022 3:23 pm" source="" latitude="8.498111" customnodeid="" altitude="13.60" tags="Oroquieta" description="" comment="" heading="6.90441" longitude="123.787444" nodeid="node27" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-2.58" title="IMG_20220728_152101_00_079.insp" description="" skinid="ht_node" pan="47.9131" url="{node25}" distance="18.4353"/>
+      <hotspot id="Point02" target="$fwd" tilt="-4.39" title="IMG_20220728_152210_00_080.insp" description="" skinid="ht_node" pan="-103.503" url="{node26}" distance="9.44747"/>
+      <hotspot id="Point03" target="$fwd" tilt="-5.47" title="IMG_20220728_152453_00_082.insp" description="" skinid="ht_node" pan="-42.7715" url="{node28}" distance="29.6181"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input overlap="1" height="1520" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-153.663" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_152453_00_082.insp" copyright="" author="" datetime="28 Jul 2022 3:24 pm" source="" latitude="8.49825636" customnodeid="" altitude="13.00" tags="Oroquieta" description="" comment="" heading="-153.663" longitude="123.78766968" nodeid="node28" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_152312_00_081.insp" description="" skinid="ht_node" pan="-30.5889" url="{node27}" distance="29.6181"/>
+      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220728_152626_00_083.insp" description="" skinid="ht_node" pan="-171.554" url="{node29}" distance="20.0577"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input overlap="1" height="1520" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-141.196" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="IMG_20220728_152626_00_083.insp" copyright="" author="" datetime="28 Jul 2022 3:26 pm" source="" latitude="8.49842802" customnodeid="" altitude="12.80" tags="Oroquieta" description="" comment="" heading="-141.196" longitude="123.78772571" nodeid="node29" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220728_152453_00_082.insp" description="" skinid="ht_node" pan="20.913" url="{node28}" distance="20.0577"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input overlap="1" height="1520" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.9613" fovmode="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Computer Lab" copyright="" author="" datetime="28 Jul 2022 3:43 pm" source="" latitude="8.49835959" customnodeid="" altitude="15.60" tags="Oroquieta|highlights" description="" comment="" heading="-90.9613" longitude="123.78682940" nodeid="node30" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" tilt="-4.04" title="IMG_20220728_145821_00_062.insp" description="" skinid="ht_node" pan="104.502" url="{node8}" distance="26.8876"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="5" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="0" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" copyright="" author="" datetime="" source="" latitude="" customnodeid="" tags="" description="" comment="" heading="0" longitude="" nodeid="master" info=""/>
+  </masternode>
+  <map id="Map01" title="" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web" mapprovider="openstreetmap" mapmaxzoom="18"/>
+</tour>
