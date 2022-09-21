@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: oroquieta.ggsk
-// Generated 2022-09-21T15:11:12
+// Generated 2022-09-21T16:49:55
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
